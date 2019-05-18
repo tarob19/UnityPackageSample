@@ -1,0 +1,4 @@
+[submodule "Packages/CustomPackageA"]
+	path = Packages/CustomPackageA
+	url = git@github.com:tarob19/CustomPackageA.git
+	branch = master
